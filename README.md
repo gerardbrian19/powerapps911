@@ -5,7 +5,6 @@
 4. Assign Datas to their respective fields - Tutorial 1
 5 Add Submit Form Button Tutorial 1 and 2
 
-
 Tutorial 2: Simple Post Data(Using Patch)
 https://jobs.collab365.community/how-to-create-a-user-registration-form-using-powerapps-flow-sharepoint-lists/
 
