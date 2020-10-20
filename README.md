@@ -5,19 +5,21 @@
 4. Assign Datas to their respective fields - Tutorial 1
 5. Add Submit Form Button Tutorial 1 and 2
 
+Tutorial 1: Fetch Data From Sharepoint List (with filter/search/lookup)
+https://www.c-sharpcorner.com/article/how-to-use-filter-search-and-lookup-functions-in-microsoft-powerapps/
+
 Tutorial 2: Simple Post Data(Using Patch)
 https://jobs.collab365.community/how-to-create-a-user-registration-form-using-powerapps-flow-sharepoint-lists/
 
 Tutorial 3: Post Bulk Form Data to Sharepoint List
 https://www.spguides.com/powerapps-submit-form-to-sharepoint-list/#:~:text=To%20Submit%20the%20items%20to,property%20of%20Submit%20button%20control.&text=Click%20on%20%E2%80%9CPREVIEW%20THE%20APP%E2%80%9C.,button%20on%20the%20PowerApps%20form.
 
-Tutorial 1: Fetch Data From Sharepoint List (with filter/search/lookup)
-https://www.c-sharpcorner.com/article/how-to-use-filter-search-and-lookup-functions-in-microsoft-powerapps/
-
-Tutorials From MVP Shane Young
+Tutorials From MVP Shane Young - (A Must) - dito ako natuto HAHAHAHA
 https://www.youtube.com/channel/UC7_OGRP8BYvtGB8eZdPG6Ng
 
 Original Documentation:
+
+A bit advanced in this part - you can clone or download the samples as zip
 
 Formula reference for Power Apps
 https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference
